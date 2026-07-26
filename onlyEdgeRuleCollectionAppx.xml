@@ -1,0 +1,108 @@
+<?xml version="1.0"?>
+<RuleCollection Type="Appx" EnforcementMode="Enabled">
+  <FilePublisherRule Id="0b9e616b-16b8-44cc-8e97-5149e3dc57d8" Name="24052cubeof11.ReluctantWebBrowser, from cubeof11" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=22BAF22C-B18E-47D6-88FB-D5974752F343" ProductName="24052cubeof11.ReluctantWebBrowser" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="10ba3ea5-6c04-4750-9874-ffb57bf03ff2" Name="16939CMDevelopers.ChromeeLite, from CM Developers" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=48DEE1E3-6D5F-499E-94CF-7E30B10FFC30" ProductName="16939CMDevelopers.ChromeeLite" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="250872b3-713e-4a0a-be7d-4e676b50d077" Name="6382CoalaApps.ChromosomeXSearch, from Coala Apps" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=F854BC6F-3937-4F2A-A22A-168855608793" ProductName="6382CoalaApps.ChromosomeXSearch" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="3e1baffb-7a18-4a8e-986f-8ff81467a613" Name="56869Yu-weiz.NextExplorer, from Yu-weiz" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=DD6BF031-5E0B-4EE9-8D35-879A628BD278" ProductName="56869Yu-weiz.NextExplorer" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="43c4ffcf-71a6-4125-95d7-db544caaa5d2" Name="Mozilla.Firefox, from Mozilla" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=082E9164-EE6C-4EC8-B62C-441FAE7BEFA1" ProductName="Mozilla.Firefox" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="53eb36d8-f192-4ee6-92af-83212744253c" Name="54317MosheNahari.ClientforWhatsapp, from Siduron Apps" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=3A19D3E3-3D60-4138-9B1F-764CD890DF7C" ProductName="54317MosheNahari.ClientforWhatsapp" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="6abce77f-2a93-4800-a5b3-b27123039e22" Name="51675URK96.SEdgeBrowser, from URK96" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=558FBEBE-C1DE-4502-AFA1-2ACF1A20C1EE" ProductName="51675URK96.SEdgeBrowser" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="6d18daf9-4c21-49d4-846a-fe18c636f7de" Name="60516PlexiLabs.LoboBrowser, from XAOS Interactive" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=5310D85C-70AB-4A10-A106-5F919AB6CE5C" ProductName="60516PlexiLabs.LoboBrowser" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="7b882ecb-4087-4a23-aa65-8d0c1f3ebf2a" Name="45740OneNow.KrakenTabBrowser, from OneNow" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=F718D461-F83F-41E7-BD6C-F74C21E77E42" ProductName="45740OneNow.KrakenTabBrowser" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="a334c95e-a554-4386-b949-4d20cc526e61" Name="60191FreshJuice.PhoenixSearch, from FreshJuice" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=9D28CE35-8541-4B9D-A3FD-D3BB9DA54AE3" ProductName="60191FreshJuice.PhoenixSearch" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="a9e18c21-ff8f-43cf-b9fc-db40eed693ba" Name="(Default Rule) All signed packaged apps" Description="Allows members of the Everyone group to run packaged apps that are signed." UserOrGroupSid="S-1-1-0" Action="Allow">
+    <Conditions>
+      <FilePublisherCondition PublisherName="*" ProductName="*" BinaryName="*">
+        <BinaryVersionRange LowSection="0.0.0.0" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="c0c8b43a-9e7f-470e-80d4-77887f351d58" Name="7756HardAtWork.SimpleExplorer10, from Carlos Rafael Ramirez" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=4F7A24A2-EB07-469A-A810-EE2D901CDD37" ProductName="7756HardAtWork.SimpleExplorer10" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="c32b0f36-b56e-41d7-a5a9-b66bf5ec22cb" Name="6727MontyInc.ChromaticBrowser, from Monty Inc." Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=4987CCC1-D52D-4392-9493-B98F05580569" ProductName="6727MontyInc.ChromaticBrowser" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="f1bfcd65-b216-4c9e-94e5-4cb264a88861" Name="DuckDuckGo.DesktopBrowser, from DuckDuckGo" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=F14F62D4-5A91-4453-B59C-918574ACB5C3" ProductName="63909DuckDuckGoInc.DuckDuckGoPrivateBrowser" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+  <FilePublisherRule Id="fa21475c-9ec1-4a2f-b66d-79c8212abc30" Name="GiftCardBal.WebMacroBot, from Aifen App" Description="" UserOrGroupSid="S-1-1-0" Action="Deny">
+    <Conditions>
+      <FilePublisherCondition PublisherName="CN=CAF32E86-4D61-487F-B9B1-3DFD714E3B2E" ProductName="GiftCardBal.WebMacroBot" BinaryName="*">
+        <BinaryVersionRange LowSection="*" HighSection="*"/>
+      </FilePublisherCondition>
+    </Conditions>
+  </FilePublisherRule>
+</RuleCollection>
